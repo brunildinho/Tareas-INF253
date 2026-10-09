@@ -1,0 +1,22 @@
+Estrofa: 1: Inválida (Carácter inválido)
+
+Estrofa: 2: Inválida (Carácter inválido)
+
+Estrofa: 3: Inválida (Carácter inválido)
+
+Estrofa: 4: Inválida (8 versos)
+
+Estrofa: 5: Inválida (3 versos)
+
+Estrofa: 6: 2.6/10
+Rimas: consonante
+
+Estrofa: 7: 2.6/10
+Rimas: consonante
+
+Estrofa: 8: 9.6/10
+Rimas: consonante
+
+Estrofa: 9: 6.0/10
+Rimas: consonante
+
